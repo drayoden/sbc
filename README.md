@@ -1,7 +1,7 @@
 #### SMALL BOARD COMPUTER -- pi, arduino, esp32 -- you get it!
 ---
 
-  ##### monolith clock
+  - monolith clock
     - esp32 testing
     - [ ] - blink
     - [ ] - wifi test -- using wifimanager 
@@ -17,6 +17,6 @@
     - [ ] - time testing -- using builtin time library, just had to #include <time.h>.
         - [ ] - time-001 - Worked! -- created the wifiinit() function and used it in setup(). need to see what is up with the day light savings offset, not sure where that comes into play.
 
-        
+
 
 
